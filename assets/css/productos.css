@@ -1,0 +1,15 @@
+.lateral-menu-imgs{
+    width: 65px;
+}
+
+.lateral-menu-btns{
+    padding: 1rem;
+    border: 1px solid;
+    border-radius: 15px;
+    background-color: #101A24;
+    margin-left: 1rem;
+}
+
+.card,.list-group-item{
+    background-color: #F4F2F2;
+}
