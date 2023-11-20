@@ -68,7 +68,7 @@ include('carrito.php');
       </div>
     <?php } ?>
 
-    <div class="d-flex align-items-start justify-content-around lateral-menu gap-3">
+    <div id="productos-div" class="d-flex align-items-start justify-content-around lateral-menu gap-3 ">
       <!-- Barra lateral con botones de categoría -->
       <div class="nav flex-column nav-pills lateral-menu-btns" id="v-pills-tab" role="tablist" aria-orientation="vertical">
         <!-- ... Tu código para los botones de categoría aquí ... -->

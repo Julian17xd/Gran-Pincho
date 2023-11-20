@@ -1,6 +1,6 @@
 <?php
-    include('../ElGranPincho/global/database.php');
-
+    include("../Pincho/global/config.php");
+    include('../Pincho/global/database.php');
     // Obtiene los datos del formulario
     $nombre = $_POST['nombre_completo'];
     $correo = $_POST['correo'];

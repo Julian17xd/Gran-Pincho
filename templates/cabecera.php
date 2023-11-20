@@ -31,16 +31,16 @@
             </a>
             <ul class="navbar-nav mb-2 mb-lg-0 gap-lg-4">
               <li class="nav-item">
-                <a class="nav-link nav-a" aria-current="page" href="#productos">Productos</a>
+                <a class="nav-link nav-a" aria-current="page" href="index.php">Productos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link nav-a" aria-current="true" href="#nosotros">Nosotros</a>
+                <a class="nav-link nav-a" aria-current="true" href="index.php">Nosotros</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link nav-a" aria-current="true" href="#ubicacion">Ubicación</a>
+                <a class="nav-link nav-a" aria-current="true" href="index.php">Ubicación</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link nav-a" aria-current="true" href="#contacto">Contacto</a>
+                <a class="nav-link nav-a" aria-current="true" href="index.php">Contacto</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link nav-a btn-pedido px-3" aria-current="true" href="productos.php">Haz tu pedido</a>
